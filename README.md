@@ -3,7 +3,6 @@
 Cases included in this folder are:
 
 1- Big Mountain Ski Resort Price Analysis
-2- Heart Disease Prediction using Machine Learning Models
-3- London Housing Prices
-4- Relax Inc. Challenge
-5- Ultimate Inc. Challenge
+2- London Housing Prices
+3- Relax Inc. Challenge
+4- Ultimate Inc. Challenge
